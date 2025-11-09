@@ -113,7 +113,6 @@ We derived this PNG dataset from
 <a href="https://huggingface.co/datasets/mbhseg/mbhseg25/resolve/main/MBH_Train_2025_voxel-label.zip?download=true">
 MBH_Train_2025_voxel-label.zip
 </a>, which contains 192 volumes with voxel-level annotations (from four different annotators), 
-<br>
 by a similar way used in <a href="https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-Multiclass-Brain-Hemorrhage">
 TensorFlow-FlexUNet-Image-Segmentation-Multiclass-Brain-Hemorrhage</a>, although the voxel-label dataset contains multiple annotations
 by the four experts. 
