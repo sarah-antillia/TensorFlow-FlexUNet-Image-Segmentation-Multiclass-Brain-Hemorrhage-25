@@ -67,14 +67,11 @@ MBH-Seg25: Multi-class Brain Hemorrhage Segmentation in Non-contrast CT</b>
 </a>
 <br><br>
 <b>Overview</b><br>
-We warmly invite you to participate in the second edition of the MICCAI MBH-Seg25 Challenge on multi-class brain hemorrhage segmentation from non-contrast CT scans. Accurate segmentation of different hemorrhage subtypes—such as subdural, epidural, intraparenchymal, and subarachnoid—is critical for timely diagnosis, treatment planning, and clinical decision-making. Each type of hemorrhage carries distinct prognostic and therapeutic implications, underscoring the need for precise and reliable delineation. Currently, diagnosis primarily depends on expert radiologists interpreting non-contrast CT scans—a process that is time-consuming and prone to inter-observer variability. This challenge aims to transform traditional workflows by promoting the development of advanced AI-driven segmentation methods that enable faster, more consistent, and more accurate diagnosis, ultimately reducing mortality and improving patient outcomes.
-
-Building on the success of last year’s challenge, MBH-Seg25 introduces new settings that better reflect real-world clinical scenarios and data constraints:
-<br><br>
+We warmly invite you to participate in the second edition of the MICCAI MBH-Seg25 Challenge on multi-class brain hemorrhage segmentation from non-contrast CT scans. Accurate segmentation of different hemorrhage subtypes—such as subdural, epidural, intraparenchymal, and subarachnoid—is critical for timely diagnosis, treatment planning, and clinical decision-making. Each type of hemorrhage carries distinct prognostic and therapeutic implications, underscoring the need for precise and reliable delineation. Currently, diagnosis primarily depends on expert radiologists interpreting non-contrast CT scans—a process that is time-consuming and prone to inter-observer variability. This challenge aims to transform traditional workflows by promoting the development of advanced AI-driven segmentation methods that enable faster, more consistent, and more accurate diagnosis, ultimately reducing mortality and improving patient outcomes.<br>
+Building on the success of last year’s challenge, MBH-Seg25 introduces new settings that better reflect real-world clinical scenarios and data constraints:<br><br>
 1. We incorporate multi-rater annotations to capture variability among experts, encouraging the development of algorithms that can handle disagreements and uncertainty in medical data.
 <br>
 2. We provide extra weakly-labeled cases with case-level labels to simulate scenarios where detailed annotations are unavailable, promoting research into methods that make the most of limited or less granular data.
-
 <br><br>
 <b>Licence</b><br>
 <a href="https://choosealicense.com/licenses/mit/">
